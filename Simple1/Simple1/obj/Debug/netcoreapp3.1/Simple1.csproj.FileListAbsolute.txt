@@ -1,0 +1,13 @@
+C:\Users\tksai\source\repos\Simple1\Simple1\bin\Debug\netcoreapp3.1\Simple1.exe
+C:\Users\tksai\source\repos\Simple1\Simple1\bin\Debug\netcoreapp3.1\Simple1.deps.json
+C:\Users\tksai\source\repos\Simple1\Simple1\bin\Debug\netcoreapp3.1\Simple1.runtimeconfig.json
+C:\Users\tksai\source\repos\Simple1\Simple1\bin\Debug\netcoreapp3.1\Simple1.runtimeconfig.dev.json
+C:\Users\tksai\source\repos\Simple1\Simple1\bin\Debug\netcoreapp3.1\Simple1.dll
+C:\Users\tksai\source\repos\Simple1\Simple1\bin\Debug\netcoreapp3.1\Simple1.pdb
+C:\Users\tksai\source\repos\Simple1\Simple1\obj\Debug\netcoreapp3.1\Simple1.csprojAssemblyReference.cache
+C:\Users\tksai\source\repos\Simple1\Simple1\obj\Debug\netcoreapp3.1\Simple1.csproj.CoreCompileInputs.cache
+C:\Users\tksai\source\repos\Simple1\Simple1\obj\Debug\netcoreapp3.1\Simple1.AssemblyInfoInputs.cache
+C:\Users\tksai\source\repos\Simple1\Simple1\obj\Debug\netcoreapp3.1\Simple1.AssemblyInfo.cs
+C:\Users\tksai\source\repos\Simple1\Simple1\obj\Debug\netcoreapp3.1\Simple1.dll
+C:\Users\tksai\source\repos\Simple1\Simple1\obj\Debug\netcoreapp3.1\Simple1.pdb
+C:\Users\tksai\source\repos\Simple1\Simple1\obj\Debug\netcoreapp3.1\Simple1.genruntimeconfig.cache
